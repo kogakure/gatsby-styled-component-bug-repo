@@ -1,3 +1,5 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+import { Demo } from "../demo"
+
+export default () => <Demo>Hello world!</Demo>
